@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+print("hello world!")
+print('hello\tgoodbye')
+print('hello\ngoodbye')
+print("hello\tgoodbye")
+print(r"hello]ngoodbye")
